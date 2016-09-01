@@ -11,7 +11,7 @@ public class Teste {
         testeOrdenacao.sortItems(numeros);
         System.out.println("Algoritmo Ordenacao\n");
         for (Integer i = 0; i < numeros.length; i++) {
-            System.out.println(numeros[i] + "\n")
+            System.out.println(numeros[i] + "\n");
         }
     }
 }
